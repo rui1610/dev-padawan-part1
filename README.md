@@ -6,6 +6,14 @@ In addition the format renders nicely in Github without having to know how to wr
 
 If you want to become a Dev Jedi you should look into some markdown cheat sheets like [this one](https://www.markdownguide.org/cheat-sheet/) or [this one](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 
+## Pre-requisites
+
+To start your developer training you first need to finish the following three tasks
+
+- task 1: [Install Visual Studio Code](https://code.visualstudio.com/download) - this will be your development environment
+- task 2: [Install a Git client](https://git-scm.com/downloads) - you need it to access the code samples
+- task 3: [Install a docker engine](https://docs.docker.com/docker-for-windows/install/) - you need 
+
 ## Your homework
 
 Try creating a nice looking new markdown file within the repository you have cloned and let it render in your Visual Studio Code environment. 
