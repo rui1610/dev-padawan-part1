@@ -12,7 +12,7 @@ To start your developer training you first need to finish the following three ta
 
 - task 1: [Install Visual Studio Code](https://code.visualstudio.com/download) - this will be your development environment
 - task 2: [Install a Git client](https://git-scm.com/downloads) - you need it to access the code samples
-- task 3: [Install a docker engine](https://docs.docker.com/docker-for-windows/install/) - you need 
+- task 3: [Install a docker engine](https://docs.docker.com/docker-for-windows/install/) - if you really want to become a dev Jedi, you'll need to know how docker containers work
 
 ## Your homework
 
