@@ -15,11 +15,15 @@ To start your developer training you first need to finish the following three ta
 - task 3: [Install a docker engine](https://docs.docker.com/docker-for-windows/install/) - if you really want to become a dev Jedi, you'll need to know how docker containers work
 
 
-## Exercise 1 - The Clone Wars
+## Exercise - **The Clone Wars**
 
-Your first exercise will be to clone a github repository. 
+Your first exercise will be to **clone** a [github](https://github.com/) repository. 
 
-For that open the command line interface on your computer (for windows users you can do that by pressing the windows key along with the **R** key, mac users open the **terminal** app).
+> Github is the largest development platform in the world. If you want to code, you need to understand how Github works. It let's you re-use tons of software on your computer and is a great proof how important collaboration is in software development. In the first exercises we'll not go too deep into Github. But once you get a deeper understanding of it, we'll look into it more in detail.
+
+For that open the command line interface on your computer:
+- **Windows users**: press the **windows** key along with the **R** key, type **cmd** into the box and press the **enter** key
+- **Mac users**: open the **terminal** app).
 
 Move to a folder where you want to have your code and type-in the following command:
 
